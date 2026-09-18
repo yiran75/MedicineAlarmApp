@@ -1,1 +1,1 @@
-# MedicineAlarmApp
+Medicine Alarm App is an Android application designed to help users remember to take their medicines on time. Users can set separate morning and night medicine alarms, enable daily repeating reminders, and customize the alarm times. When an alarm goes off, the app displays a full-screen reminder with a loud alarm sound, vibration, and voice notification reminding the user to take their medicine. The app also includes Stop and Snooze options and saves the user's alarm settings for future use.
